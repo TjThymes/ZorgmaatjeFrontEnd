@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 08c0ad1af12064b43800802d9df30d3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4078505144391258869
+    second: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_0
+  - first:
+      213: 791466526153606057
+    second: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_1
+  - first:
+      213: 2150120701505875825
+    second: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_2
+  - first:
+      213: -5504164167353625649
+    second: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_3
+  - first:
+      213: 7120630442187832448
+    second: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_4
+  - first:
+      213: -1401415758421127149
+    second: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_5
+  - first:
+      213: 6580849035615845544
+    second: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_6
+  - first:
+      213: 5303901478636274347
+    second: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 607
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f25b0ae1d2c99830800000000000000
+      internalID: 4078505144391258869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 703
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a38ff6bc9adbfa00800000000000000
+      internalID: 791466526153606057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 683
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fa87dd263c6dd10800000000000000
+      internalID: 2150120701505875825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 607
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc314732ad74d93b0800000000000000
+      internalID: -5504164167353625649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 110
+        width: 1004
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c307319af81d260800000000000000
+      internalID: 7120630442187832448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 584
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3109ca0facb2d8ce0800000000000000
+      internalID: -1401415758421127149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 53
+        width: 74
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acba50c45fd35b50800000000000000
+      internalID: 6580849035615845544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 54
+        width: 259
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2c8c52b4e3b9940800000000000000
+      internalID: 5303901478636274347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_0: 4078505144391258869
+      alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_1: 791466526153606057
+      alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_2: 2150120701505875825
+      alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_3: -5504164167353625649
+      alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_4: 7120630442187832448
+      alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_5: -1401415758421127149
+      alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_6: 6580849035615845544
+      alternative-therapy-illustration-featuring-energy-based-healing-for-relaxation-in-a-cartoon-background-vector-Photoroom_7: 5303901478636274347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
